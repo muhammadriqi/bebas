@@ -4,7 +4,7 @@
       <!-- Slider Berita -->
       <div class="slider">
         <div class="slider-content">
-          <img src="/assets/Okur.jpg" alt="Berita" class="slider-image" />
+          <img src="/assets/Okur.JPG" alt="Berita" class="slider-image" />
         </div>
        </div>
 
@@ -12,7 +12,7 @@
       <div class="sambutan">
         <h3>Sambutan Kepala Sekolah</h3>
         <div class="sambutan-content">
-          <img src="/assets/kep.jpg" alt="Kepala Sekolah" class="kepsek-image" />
+          <img src="/assets/Pakur.jpg" alt="Kepala Sekolah" class="kepsek-image" />
           <marquee direction="up" scrollamount="2" class="marquee-text">
             Assalamu'alaikum Wr, Wb<br /><br />
             Puji Syukur kepada Allah SWT, Tuhan yang maha esa yang telah memberikan rahmat dan anugerahnya sehingga WEBSITE SMKN 4 TASIKMALAYA ini dapat terbit. salah satu tujuan dari website ini adalah
