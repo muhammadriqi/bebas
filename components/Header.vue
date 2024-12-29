@@ -4,7 +4,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
       <div class="container-fluid">
         <a class="navbar-brand d-flex align-items-center" href="#">
-          <img src="/assets/img.jpeg"alt="Logo" width="50" class="me-3" />
+          <img src="/assets/smk.jpeg"alt="Logo" width="50" class="me-3" />
           <span class="fw-bold">SMK Negeri 4 Tasikmalaya</span>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
