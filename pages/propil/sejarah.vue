@@ -3,7 +3,7 @@
   <div class="sejarah-sekolah">
     <h3 class="text-center">Sejarah SMK Negeri 4 Tasikmalaya</h3>
     <div class="profil">
-      <img src="/assets/kep.jpg" alt="Kepala Sekolah" />
+      <img src="/assets/Kepsek.jpg" alt="Kepala Sekolah" />
       <p>
         Sejalan dengan Program Pemerintah di bidang pendidikan Menengah Kejuruan pada saat itu yakni pemerataan akses
         ditambah pula dengan banyaknya keinginan masyarakat yang mengharapkan adanya SMK Negeri di daerah Kecamatan
