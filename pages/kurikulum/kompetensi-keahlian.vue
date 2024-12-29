@@ -36,10 +36,10 @@
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card shadow-sm text-center" style="width: 100%;">
           <div class="icon-container mx-auto mt-3">
-            <img src="/assets/PPLG.jpg" class="card-icon" alt="Icon Kompetensi 2">
+            <img src="/assets/RPL.jpg" class="card-icon" alt="Icon Kompetensi 2">
           </div>
           <div class="card-body">
-            <h5 class="card-title text-center">PPLG</h5>
+            <h5 class="card-title text-center">RPL</h5>
             <p class="card-text">
               Penjelasan singkat tentang kompetensi keahlian ini untuk memberikan informasi yang berguna.
             </p>
@@ -51,10 +51,10 @@
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card shadow-sm text-center" style="width: 100%;">
           <div class="icon-container mx-auto mt-3">
-            <img src="/assets/TKJT.jpg" class="card-icon" alt="Icon Kompetensi 3">
+            <img src="/assets/TKJ.jpg" class="card-icon" alt="Icon Kompetensi 3">
           </div>
           <div class="card-body">
-            <h5 class="card-title text-center">TJKT</h5>
+            <h5 class="card-title text-center">TKJ</h5>
             <p class="card-text">
               Penjelasan singkat tentang kompetensi keahlian ini untuk memberikan informasi yang berguna.
             </p>
@@ -66,10 +66,25 @@
        <div class="col-lg-3 col-md-6 mb-4">
         <div class="card shadow-sm text-center" style="width: 100%;">
           <div class="icon-container mx-auto mt-3">
-            <img src="/assets/TOI.JPG" class="card-icon" alt="Icon Kompetensi 3">
+            <img src="/assets/TOIBYS.JPG" class="card-icon" alt="Icon Kompetensi 3">
           </div>
           <div class="card-body">
-            <h5 class="card-title text-center">TOI</h5>
+            <h5 class="card-title text-center">TOIBYS</h5>
+            <p class="card-text">
+              Penjelasan singkat tentang kompetensi keahlian ini untuk memberikan informasi yang berguna.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Kartu 5 -->
+      <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card shadow-sm text-center" style="width: 100%;">
+          <div class="icon-container mx-auto mt-3">
+            <img src="/assets/TSM.jpg" class="card-icon" alt="Icon Kompetensi 2">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title text-center">TSM</h5>
             <p class="card-text">
               Penjelasan singkat tentang kompetensi keahlian ini untuk memberikan informasi yang berguna.
             </p>
