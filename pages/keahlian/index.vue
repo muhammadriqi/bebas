@@ -54,7 +54,7 @@
             <img src="/assets/TKJ.jpg" class="card-icon" alt="Icon Kompetensi 3">
           </div>
           <div class="card-body">
-            <h5 class="card-title text-center">TJK</h5>
+            <h5 class="card-title text-center">TKJ</h5>
             <p class="card-text">
               Penjelasan singkat tentang kompetensi keahlian ini untuk memberikan informasi yang berguna.
             </p>
