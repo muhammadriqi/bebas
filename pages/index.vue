@@ -4,7 +4,7 @@
       <!-- Slider Berita -->
       <div class="slider">
         <div class="slider-content">
-          <img src="/assets/riding.jpeg" alt="Berita" class="slider-image" />
+          <img src="/assets/Okur.jpg" alt="Berita" class="slider-image" />
         </div>
        </div>
 
@@ -298,7 +298,6 @@ body {
   background-color: #fff;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
-  overflow: hidden;
   text-align: center;
 }
 
