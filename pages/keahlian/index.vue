@@ -21,7 +21,7 @@
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card shadow-sm text-center" style="width: 100%;">
           <div class="icon-container mx-auto mt-3">
-            <img src="/assets/DKV.jpg" class="card-icon" alt="Icon Kompetensi 1">
+            <img src="/assets/DKV.jpeg" class="card-icon" alt="Icon Kompetensi 1">
           </div>
           <div class="card-body">
             <h5 class="card-title text-center">DKV</h5>
