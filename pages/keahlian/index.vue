@@ -14,6 +14,7 @@
         </p>
       </div>
     </div>
+    </div>
 
     <!-- Kartu Kompetensi Keahlian -->
     <div class="row">
