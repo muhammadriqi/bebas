@@ -63,7 +63,7 @@
       </div>
 
        <!-- Kartu 4 -->
-       <!-- <div class="col-lg-3 col-md-6 mb-4">
+       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card shadow-sm text-center" style="width: 100%;">
           <div class="icon-container mx-auto mt-3">
             <img src="/assets/TOIBYS.JPG" class="card-icon" alt="Icon Kompetensi 3">
@@ -75,7 +75,7 @@
             </p>
           </div>
         </div>
-      </div> -->
+      </div>
 
      <!-- Kartu 5 -->
      <div class="col-lg-3 col-md-6 mb-4">
